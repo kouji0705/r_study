@@ -6,7 +6,7 @@ print("ベクトルの内容:")
 print(val)
 
 # プロットの作成
-plot(val, type = "o", col = "blue", xlab = "Index", ylab = "Value", main = "ベクトルのプロット")
+plot(val, type = "o", col = "blue", xlab = "Index", ylab = "Value", main = "vector plot")
 
 # 平均値の計算
 average_val <- mean(val)
