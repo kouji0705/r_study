@@ -1,0 +1,31 @@
+Date,DayOfWeek,Sales,Weather,Promotion
+2024-01-01,Monday,434,Rainy,None
+2024-01-02,Tuesday,411,Rainy,Special Menu
+2024-01-03,Wednesday,461,Rainy,Special Menu
+2024-01-04,Thursday,748,Sunny,Discount
+2024-01-05,Friday,627,Sunny,Special Menu
+2024-01-06,Saturday,441,Rainy,Special Menu
+2024-01-07,Sunday,659,Cloudy,Special Menu
+2024-01-08,Monday,633,Sunny,Special Menu
+2024-01-09,Tuesday,538,Rainy,Discount
+2024-01-10,Wednesday,568,Cloudy,Special Menu
+2024-01-11,Thursday,501,Rainy,Discount
+2024-01-12,Friday,568,Rainy,None
+2024-01-13,Saturday,425,Rainy,Discount
+2024-01-14,Sunday,737,Sunny,Special Menu
+2024-01-15,Monday,696,Sunny,None
+2024-01-16,Tuesday,636,Sunny,Special Menu
+2024-01-17,Wednesday,761,Sunny,Special Menu
+2024-01-18,Thursday,786,Sunny,Discount
+2024-01-19,Friday,454,Rainy,None
+2024-01-20,Saturday,496,Rainy,Discount
+2024-01-21,Sunday,641,Cloudy,Special Menu
+2024-01-22,Monday,794,Sunny,Discount
+2024-01-23,Tuesday,549,Rainy,Discount
+2024-01-24,Wednesday,639,Sunny,Discount
+2024-01-25,Thursday,466,Rainy,None
+2024-01-26,Friday,690,Sunny,None
+2024-01-27,Saturday,411,Rainy,Special Menu
+2024-01-28,Sunday,638,Sunny,Discount
+2024-01-29,Monday,615,Sunny,Special Menu
+2024-01-30,Tuesday,632,Cloudy,Special Menu
