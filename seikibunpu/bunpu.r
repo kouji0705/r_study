@@ -18,3 +18,5 @@ ggplot(data, aes(x = x, y = y)) +
        x = "Data Value (z-score)",
        y = "Probability Density") +
   theme_minimal()
+
+  
