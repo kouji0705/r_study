@@ -1,6 +1,6 @@
 # サンプルデータ生成（学生のテスト点数）
 set.seed(123)  # 再現性のため
-sample_scores <- rnorm(30, mean = 78, sd = 10)  # 平均78、標準偏差10のデータを30個生成
+sample_scores <- rnorm(30, mean = 85, sd = 10)  # 平均78、標準偏差10のデータを30個生成
 
 # データの要約
 summary(sample_scores)
