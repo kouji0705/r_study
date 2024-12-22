@@ -19,4 +19,4 @@ ggplot(data, aes(x = x, y = y)) +
        y = "Probability Density") +
   theme_minimal()
 
-  
+
