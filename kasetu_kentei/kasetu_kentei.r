@@ -16,6 +16,8 @@ t_test_result <- t.test(sample_scores, mu = 75)
 # 結果を出力
 print(t_test_result)
 
+
+
 # 結果の解釈
 if (t_test_result$p.value < 0.05) {
   cat("帰無仮説を棄却します。平均点は75ではありません。\n")
